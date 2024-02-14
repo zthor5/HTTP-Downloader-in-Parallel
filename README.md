@@ -1,8 +1,10 @@
-Author: ZThor5
+## HTTP Downloads in Parallel Partitions
+
+Designed to download a single file in multiple concurrent partitions in parallel.
 
 Notice, required turn off ssl certification.
 
-How to Use...
+# How to Use...
 
 Run: python setup.py develop
 
